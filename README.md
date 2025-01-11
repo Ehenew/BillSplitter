@@ -76,7 +76,7 @@ Contributions are welcome to make this app even better! Here’s how you can con
 
 ## License
 
-This project is licensed under the MIT License. You can find the license details in the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License.
 
 ## Contact
 
@@ -84,4 +84,4 @@ If you have any questions, feedback, or suggestions, feel free to create an issu
 
 ---
 
-Happy splitting! 
+Happy splitting! 😊
